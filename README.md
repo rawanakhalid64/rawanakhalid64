@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rawna Khalid</h1>
+<h1 align="center">Hi 👋, I'm Rawana Khalid</h1>
 <h3 align="center">A passionate Frontend developer from Alexandria</h3>
 
 - 🔭 My Side Business Full-Stack Web & Apps | Performance & SEO Developer **Line IT**
